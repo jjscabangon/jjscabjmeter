@@ -1,0 +1,8 @@
+﻿type,email,password,fname,lname,address,city,state,zip,mobile
+reg,,Test@1234,FNameA,LNameA,Address1,City1,1,11111,1111111111
+reg,,Test@1234,FNameB,LNameB,Address2,City2,2,11112,1111111112
+reg,,Test@1234,FNameC,LNameC,Address3,City3,3,11113,1111111113
+reg,,Test@1234,FNameD,LNameD,Address4,City4,4,11114,1111111114
+reg,,Test@1234,FNameE,LNameE,Address5,City5,5,11115,1111111115
+login,jjscabangon@gmail.com,Test@1234,,,,,,,
+login,test001@tempr.email,Test@1234,,,,,,,
